@@ -6,7 +6,7 @@ A blog app built with django api for backend and reactjs for frontend.
 - Python
 - Django
 
-### For backend
+### For frontend
 - Yarn
 - React
 
@@ -16,9 +16,6 @@ A blog app built with django api for backend and reactjs for frontend.
 
 ## Backend API
     Open backend folder README for installation and instructions for Django API.
-
-
-    ```
 
 
 
